@@ -16,7 +16,7 @@ Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall i
 
 [😎 OnlyPostsBot](https://t.me/onlyposts_bot) - Bot looking for messages in group and leaves messages that were left by the admin or channel owner, and deletes the rest
 
-##### Docker containers
+##### Docker images 🐳
 [es1n/pgadmin4-oc](https://hub.docker.com/repository/docker/es1n/pgadmin4-oc) - pgAdmin4 Docker image for Openshift [![Docker Pulls](https://img.shields.io/docker/pulls/es1n/pgadmin4-oc.svg)](https://img.shields.io/docker/pulls/es1n/pgadmin4-oc.svg)
 
 [es1n/exitwithcode](https://hub.docker.com/repository/docker/es1n/exitwithcode) - Container which exits with code [![Docker Pulls](https://img.shields.io/docker/pulls/es1n/exitwithcode)](https://img.shields.io/docker/pulls/es1n/exitwithcode.svg)
