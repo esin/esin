@@ -32,3 +32,5 @@ Twitter: [@la_stik](https://twitter.com/la_stik)
 Telegram: [@la_stik](https://t.me/la_stik)
 
 LinkedIn: [andrey.esin](https://linkedin.com/in/andrey.esin)
+
+[![Cnt](http://ide.esin.name/ghpp/download_469566.png)](http://ide.esin.name/ghpp/download_469566.png)
