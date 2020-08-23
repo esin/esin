@@ -33,4 +33,4 @@ Telegram: [@la_stik](https://t.me/la_stik)
 
 LinkedIn: [andrey.esin](https://linkedin.com/in/andrey.esin)
 
-[!(http://ide.esin.name/ghpp/e.png)]
+[![Watch counter](http://ide.esin.name/ghpp/e.png)](http://ide.esin.name/ghpp/e.png)
