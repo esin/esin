@@ -8,7 +8,7 @@ Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall i
 [👻 Ghost in the shell](https://in.theshell.xyz) - Ghost in the shell. Remake. [Repo](https://github.com/esin/intheshell)
 
 ##### Telegram bots :robot:
-[☁️  AWStatus](https://t.me/Awstatus_bot) - Bot is looking for https://status.aws.amazon.com and notify about issues
+[☁️  AWStatus](https://t.me/Awstatus_bot) - Bot is looking for https://status.aws.amazon.com and notify about issues. [Repo](https://github.com/esin/awstatus_bot)
 
 [📢 CryptoSiren](https://t.me/cryptosiren_bot) - Just crypto notification bot with some features
 
