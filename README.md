@@ -1,6 +1,6 @@
 ### Guy without armored suit 👋
 
-Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall in :heart: with Linux, AWS, smart people, 
+Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall in :heart: with Linux, AWS and smart people
 
 #### Projects
 [📅 isdayoff.ru](https://isdayoff.ru) - simple API for checking dayoffs
