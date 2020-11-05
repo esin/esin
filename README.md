@@ -2,6 +2,10 @@
 
 Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall in :heart: with Linux, AWS and smart people
 
+#### Working hard on
+
+[🔧 localb.in](https://localb.in) - Linux-tools-as-a-service. All you need is curl (wget/invoke-webrequest)
+
 #### Projects
 [📅 isdayoff.ru](https://isdayoff.ru) - simple API for checking dayoffs
 
@@ -34,6 +38,8 @@ Twitter: [@la_stik](https://twitter.com/la_stik)
 Telegram: [@la_stik](https://t.me/la_stik)
 
 LinkedIn: [andrey.esin](https://linkedin.com/in/andrey.esin)
+
+Email: [mail@andrey.es](mailto:mail@andrey.es)
 
 #### Badges
 
