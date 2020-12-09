@@ -2,6 +2,8 @@
 
 Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall in :heart: with Linux, AWS and smart people
 
+#### You can leave me a message via [GitHub Discussion](https://github.com/esin/esin/discussions?discussions_q=category%3AGuestbook)
+
 #### Working hard on
 
 [🔧 localb.in](https://localb.in) - Linux-tools-as-a-service. All you need is curl (wget/invoke-webrequest)
