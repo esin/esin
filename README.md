@@ -13,6 +13,8 @@ Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall i
 
 [🟢 telegram_online](https://github.com/esin/telegram_online) - Bring you Telegram online forever
 
+[🔢 Rate everything](https://esin.github.io/score/) - You can rate everything with simple score system
+
 ##### Telegram bots :robot:
 [☁️  AWStatus](https://t.me/Awstatus_bot) - Bot is looking for https://status.aws.amazon.com and notify about issues. [Repo](https://github.com/esin/awstatus_bot)
 
