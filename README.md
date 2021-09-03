@@ -1,4 +1,4 @@
-### Guy without armored suit 👋
+### Guy without armored suit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall in :heart: with Linux, AWS and smart people
 
