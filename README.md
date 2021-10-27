@@ -51,6 +51,8 @@ Email: [mail@andrey.es](mailto:mail@andrey.es)
 
 Fediverse: [fediver.se/@andrey](https://fediver.se/@andrey)
 
+Hubzilla: [hubzil.la/channel/andrey](https://hubzil.la/channel/andrey)
+
 #### Badges
 
 ![](https://komarev.com/ghpvc/?username=esin)
