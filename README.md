@@ -47,7 +47,7 @@ Twitter: [@la_stik](https://twitter.com/la_stik)
 
 Telegram: [@la_stik](https://t.me/la_stik)
 
-LinkedIn: [andrey.esin](https://linkedin.com/in/andrey.esin)
+LinkedIn: [andreyesin](https://linkedin.com/in/andreyesin)
 
 Email: [mail@andrey.es](mailto:mail@andrey.es)
 
