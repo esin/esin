@@ -26,8 +26,6 @@ Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall i
 
 [📸 Phontact](https://t.me/phontactbot) - Bot, which can recognize phone number from photo or screenshoot
 
-[😎 OnlyPostsBot](https://t.me/onlyposts_bot) - Bot looking for messages in group and leaves messages that were left by the admin or channel owner, and deletes the rest
-
 ##### Chrome extensions
 [Mark This Tab!](https://chrome.google.com/webstore/detail/mark-this-tab/elpmfpacelndpdgiachjinkbfjddichb) - Marks tab in Chromium
 
