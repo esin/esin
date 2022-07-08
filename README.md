@@ -1,6 +1,6 @@
 ### Guy without armored suit 👋
 
-Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall in :heart: with Linux, AWS and smart people
+Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall in :heart: with Linux, ~~AWS~~ 😔 Yandex.Cloud and smart people
 
 #### You can leave me a message via [GitHub Discussion](https://github.com/esin/esin/discussions?discussions_q=category%3AGuestbook)
 
@@ -16,6 +16,8 @@ Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall i
 [🔢 Rate everything](https://esin.github.io/score/) - You can rate everything with simple score system
 
 [📍 SOSMap](http://sosmap.2big.cc/) - Will help to find nearest city if you are lost
+
+[🔑 Mechanical Password Generator](https://mpg.2big.cc/) - Password generator, looks like real. Just roll to generate password
 
 ##### Telegram bots :robot:
 [☁️  AWStatus](https://t.me/Awstatus_bot) - Bot is looking for https://status.aws.amazon.com and notify about issues
