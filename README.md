@@ -1,6 +1,6 @@
 ### Guy without armored suit 👋
 
-Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall in :heart: with Linux, ~~AWS~~ 😔 Yandex.Cloud and smart people
+Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall in :heart: with Linux, ~~AWS~~ Yandex.Cloud, APIs and smart people
 
 #### You can leave me a message via [GitHub Discussion](https://github.com/esin/esin/discussions?discussions_q=category%3AGuestbook)
 
@@ -19,6 +19,28 @@ Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall i
 
 [🔑 Mechanical Password Generator](https://mpg.2big.cc/) - Password generator, looks like real. Just roll to generate password
 
+<details>
+  <summary>⚙️ My personal API</summary>
+
+  Just a joke 😄 but you can get some info about me
+
+  **Now playing music:**
+  ```bash
+  https://api.andrey.es/in/v1/music
+  ```
+
+  **My location:**
+  ```bash
+  https://api.andrey.es/in/v1/location
+  ```
+  **My sleep status:**
+  ```bash
+  https://api.andrey.es/in/v1/sleep
+  ```
+
+</details>
+
+
 ##### Telegram bots :robot:
 [☁️  AWStatus](https://t.me/Awstatus_bot) - Bot is looking for https://status.aws.amazon.com and notify about issues
 
@@ -27,6 +49,7 @@ Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall i
 [🥪 The Biggest Sandwich Bot](https://t.me/TheBiggestSandwichBot) - This bot shows where your friend should be to make the biggest sandwich in the World
 
 [📸 Phontact](https://t.me/phontactbot) - Bot, which can recognize phone number from photo or screenshoot
+
 
 ##### Chrome extensions
 [Mark This Tab!](https://chrome.google.com/webstore/detail/mark-this-tab/elpmfpacelndpdgiachjinkbfjddichb) - Marks tab in Chromium
@@ -47,8 +70,6 @@ Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall i
 
 Home: [andrey.es](https://andrey.es)
 
-Twitter: [@la_stik](https://twitter.com/la_stik)
-
 Telegram: [@la_stik](https://t.me/la_stik)
 
 LinkedIn: [andreyesin](https://linkedin.com/in/andreyesin)
@@ -58,6 +79,8 @@ Email: [mail@andrey.es](mailto:mail@andrey.es)
 Fediverse: [fediver.se/@andrey](https://fediver.se/@andrey)
 
 Hubzilla: [hubzil.la/channel/andrey](https://hubzil.la/channel/andrey)
+
+Twitter: [@la_stik](https://twitter.com/la_stik)
 
 #### Badges
 
