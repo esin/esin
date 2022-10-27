@@ -46,7 +46,7 @@ Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall i
 ##### Telegram bots :robot:
 [☁️  AWStatus](https://t.me/Awstatus_bot) - Bot is looking for https://status.aws.amazon.com and notify about issues
 
-[📢 CryptoSiren](https://t.me/cryptosiren_bot) - Just crypto notification bot with some features
+~[📢 CryptoSiren](https://t.me/cryptosiren_bot) - Just crypto notification bot with some features~
 
 [🥪 The Biggest Sandwich Bot](https://t.me/TheBiggestSandwichBot) - This bot shows where your friend should be to make the biggest sandwich in the World
 
