@@ -19,6 +19,8 @@ Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall i
 
 [🔑 Mechanical Password Generator](https://mpg.2big.cc/) - Password generator, looks like real. Just roll to generate password
 
+[🟩 WhatsApp Dialog](http://2big.cc/wa) - Opens dialog with Whatsapp user without adding to addressbook
+
 <details>
   <summary>⚙️ My personal API</summary>
 
