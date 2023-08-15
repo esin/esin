@@ -21,7 +21,7 @@ Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall i
 
 [🟩 WhatsApp Dialog](http://2big.cc/wa) - Opens dialog with Whatsapp user without adding to addressbook
 
-[🌐 Мой АйПи](https://xn--80aqbbmmk.xn--p1ai) - Просто, быстро, бесплатно, без регистрации и Javascript покажет IP адрес
+[🌐 Мой АйПи](https://xn--80aqbbmmk.xn--p1ai) - Просто, быстро, бесплатно, без регистрации и Javascript покажет IP адрес. [Repo](https://github.com/esin/myip)
 
 <details>
   <summary>⚙️ My personal API</summary>
