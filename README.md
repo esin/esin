@@ -23,6 +23,8 @@ Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall i
 
 [🌐 Мой АйПи](https://xn--80aqbbmmk.xn--p1ai) - Просто, быстро, бесплатно, без регистрации и Javascript покажет IP адрес. [Repo](https://github.com/esin/myip)
 
+[🔎 Check](http://2big.cc.website.yandexcloud.net/check/) - Shows current html pages. Useful when provider try to inject own code into non-https traffic
+
 <details>
   <summary>⚙️ My personal API</summary>
 
