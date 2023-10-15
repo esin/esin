@@ -82,11 +82,7 @@ LinkedIn: [andreyesin](https://linkedin.com/in/andreyesin)
 
 Email: [mail@andrey.es](mailto:mail@andrey.es)
 
-Fediverse: [fediver.se/@andrey](https://fediver.se/@andrey)
-
-Hubzilla: [hubzil.la/channel/andrey](https://hubzil.la/channel/andrey)
-
-Twitter: [@la_stik](https://twitter.com/la_stik)
+Fediverse: [hubzil.la/channel/andrey](https://hubzil.la/channel/andrey)
 
 #### Badges
 
