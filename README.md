@@ -25,6 +25,8 @@ Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall i
 
 [🔎 Check](http://2big.cc.website.yandexcloud.net/check/) - Shows current html pages. Useful when provider try to inject own code into non-https traffic
 
+[🏓 icmp_exp](https://github.com/esin/icmp_exp) - The application allows you to respond to ICMP requests exponentially
+
 <details>
   <summary>⚙️ My personal API</summary>
 
@@ -56,6 +58,7 @@ Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall i
 
 [📸 Phontact](https://t.me/phontactbot) - Bot, which can recognize phone number from photo or screenshoot
 
+[📷 Instagram post to text](https://t.me/post2textbot) - Bot, which shows you post as text (with the ability to copy articles from marketplaces in one click)
 
 ##### Chrome extensions
 [Mark This Tab!](https://chrome.google.com/webstore/detail/mark-this-tab/elpmfpacelndpdgiachjinkbfjddichb) - Marks tab in Chromium
