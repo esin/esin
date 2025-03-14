@@ -36,14 +36,19 @@ Hey! My name is Andrey Esin and I'm DevOps-engineer, Golang-developer and fall i
   ```bash
   https://api.andrey.es/in/v1/music
   ```
+  **My car status:**
+  ```bash
+  https://api.andrey.es/in/v1/car
+  ```
+
+  **My sleep status:**
+  ```bash
+  https://api.andrey.es/in/v1/sleep
+  ```
 
   **My location:**
   ```bash
   https://api.andrey.es/in/v1/location
-  ```
-  **My sleep status:**
-  ```bash
-  https://api.andrey.es/in/v1/sleep
   ```
 
 </details>
